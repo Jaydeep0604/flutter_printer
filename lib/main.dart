@@ -4,6 +4,7 @@ import 'package:flutter_printer/ui/printer_screen.dart';
 
 void main() {
   runApp(const MyApp());
+
 }
 
 class MyApp extends StatelessWidget {
